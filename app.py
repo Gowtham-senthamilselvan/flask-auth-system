@@ -38,8 +38,8 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://username:passwor
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # Flask Mail Configuration
-app.config['MAIL_SERVER'] = 'smtp.gmail.com'
-app.config['MAIL_PORT'] = 465
+app.config['MAIL_SERVER'] = ''
+app.config['MAIL_PORT'] = ''
 app.config['MAIL_USERNAME'] = ''
 app.config['MAIL_PASSWORD'] = ''
 app.config['MAIL_USE_TLS'] = False
