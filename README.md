@@ -6,8 +6,8 @@ This project is a Flask-based authentication system with features like user regi
 
 - User Registration
 - User Login
-- Password Reset (OTP-based)
-- Email Verification using Flask Mail
+- Password Reset (OTP-based) using Flask Mail
+- Email Verification 
 - Password Hashing using Flask-Bcrypt
 - JWT Token Authentication and Authorization
 
